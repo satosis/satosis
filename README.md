@@ -52,6 +52,6 @@ Devops
 </div>
 
 </td></tr></table>  
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satosis&theme=default&show_icons=true&hide_border=true&layout=compact" alt="satosis's GitHub Stats" />
 <br/>  
 <br/>  
