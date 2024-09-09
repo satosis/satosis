@@ -21,7 +21,6 @@ Frontend
 <a href="https://mui.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="35" /></a>  
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="35" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="35" /></a>  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="35" /></a>  
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="35" /></a>  
 <a href="https://www.ionicframework.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/ionic.svg" alt="Ionic" height="35" /></a>  
 <a href="https://angular.io/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="35" /></a>  
