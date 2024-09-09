@@ -51,8 +51,10 @@ Devops
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="35" /></a>  
 </div>
 
-</td></tr></table>  
+</td></tr></table> 
+<div style="display:flex">  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satosis&theme=default&show_icons=true&hide_border=true&layout=compact" alt="satosis's GitHub Stats" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=satosis&theme=default&hide_border=true" alt="satosis's GitHub Stats" />
+</div>
 <br/>  
 <br/>  
