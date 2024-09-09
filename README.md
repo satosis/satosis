@@ -48,7 +48,7 @@ FullStack Developer | Coding all time, turning any idea into a real project 💻
 <a href="https://go.dev/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="35" /></a>  
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="35" /></a>  
 </div>
-
+</td><td valign="top" width="50%">
 ### Devops  
 <div align="center">  
 <a href="https://console.aws.amazon.com" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="35" /></a>  
