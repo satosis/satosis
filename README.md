@@ -53,8 +53,8 @@ Devops
 
 </td></tr></table> 
 <div style="display:flex">  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satosis&theme=default&show_icons=true&hide_border=true&layout=compact" alt="satosis's GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=satosis&theme=default&hide_border=true" alt="satosis's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satosis&theme=default&show_icons=true&hide_border=true&layout=compact" alt="satosis's GitHub Stats" style='height:100' />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=satosis&theme=default&hide_border=true" alt="satosis's GitHub Stats"  style='height:100'/>
 </div>
 <br/>  
 <br/>  
