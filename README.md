@@ -10,10 +10,7 @@ FullStack Developer | Coding all time, turning any idea into a real project 💻
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
+Frontend  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="35" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="35" /></a>  
@@ -31,10 +28,7 @@ FullStack Developer | Coding all time, turning any idea into a real project 💻
 </div>
 
 </td><td valign="top" width="33%">
-
-
-
-### Backend  
+Backend  
 <div align="center">  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="35" /></a>  
 <a href="https://www.rust-lang.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="35" /></a>  
@@ -49,7 +43,7 @@ FullStack Developer | Coding all time, turning any idea into a real project 💻
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="35" /></a>  
 </div>
 </td><td valign="top" width="34%">
-### Devops  
+Devops  
 <div align="center">  
 <a href="https://console.aws.amazon.com" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="35" /></a>  
 <a href="https://ubuntu.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Ubuntu" height="35" /></a>  
